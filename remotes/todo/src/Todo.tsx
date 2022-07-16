@@ -1,7 +1,17 @@
+import { useState } from 'react';
+
 function Todo() {
+  const [state, setState] = useState(false);
+  console.log(state);
   return (
     <div className="todo">
-      <div>todo!!!</div>
+      <div
+        onClick={() => {
+          setState((s) => !s);
+        }}
+      >
+        todo!!!
+      </div>
     </div>
   );
 }

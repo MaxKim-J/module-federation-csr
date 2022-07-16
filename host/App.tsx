@@ -7,7 +7,7 @@ const Calculator = lazy(() => import('calculator/Calculator'));
 function App() {
   return (
     <div>
-      <h1>Host</h1>
+      <h1>Host!!</h1>
       <div>
         <h2>Todo App</h2>
         <ClientSuspense fallback={<div>loading</div>}>
