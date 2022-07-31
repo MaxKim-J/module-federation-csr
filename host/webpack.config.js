@@ -29,6 +29,11 @@ const webpackConfig = ({ env }) => {
       static: {
         directory: path.join(__dirname, 'dist'),
       },
+      client: {
+        overlay: {
+          warnings: false,
+        },
+      },
       compress: true,
       port: 3000,
       open: true,

@@ -4,7 +4,10 @@
   "private": true,
   "workspaces": [
     "host",
-    "remotes/*"
+    "remotes/*",
+    "app",
+    "vite-host",
+    "vite-plugin-federation"
   ],
   "scripts": {
     "build": "turbo run build",
