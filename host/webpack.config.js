@@ -82,12 +82,10 @@ const webpackConfig = ({ env }) => {
         }),
         shared: {
           react: {
-            eager: true,
             singleton: true,
             requiredVersion: packageJson.dependencies['react'],
           },
           'react-dom': {
-            eager: true,
             singleton: true,
             requiredVersion: packageJson.dependencies['react-dom'],
           },

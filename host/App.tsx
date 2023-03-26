@@ -1,5 +1,6 @@
-import ClientSuspense from './ClientSuspense';
 import { lazy } from 'react';
+
+import ClientSuspense from './ClientSuspense';
 
 const Todo = lazy(() => import('todo/Todo'));
 const Calculator = lazy(() => import('calculator/Calculator'));
