@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0c462d-2777-406b-9fc4-dd6bba422e3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.pnp.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.pnp.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/host/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/host/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host/bootstrap.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/host/bootstrap.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/host/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/host/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remotes/calculator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/remotes/calculator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remotes/todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/remotes/todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/src/main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-host/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite-plugin-federation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NYemJYPwNYaRRIqD0zOY1utWxP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jonghyukkim/dev/mf-csr",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "yarn:package.json:prettier",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "yarn:remotes/calculator/package.json:typescript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0c462d-2777-406b-9fc4-dd6bba422e3a" name="Changes" comment="" />
+      <created>1679845600355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679845600355</updated>
+      <workItem from="1679845601659" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
